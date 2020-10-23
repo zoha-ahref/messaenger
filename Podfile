@@ -6,5 +6,10 @@ target 'messaenger' do
   use_frameworks!
 
   # Pods for messaenger
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database' 
+
+
 
 end
